@@ -9,7 +9,7 @@ Analysis of restaurant ratings, votes, and pricing
 City-wise and cuisine-wise performance analysis
 Online delivery and table booking analysis
 
-Tools & Technologies
+Tools & Technologies:
 Power BI
 Power Query
 DAX
